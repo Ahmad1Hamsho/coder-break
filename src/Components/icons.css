@@ -1,0 +1,50 @@
+.icons {
+  position: relative;
+  top: 65vh;
+  margin: auto;
+  width: 50vw;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.icons img {
+  margin: 0;
+  width: 15vw;
+  height: 30vh;
+  border: 3px solid transparent;
+  border-radius: 10px;
+}
+@media only screen and (max-width: 500px) {
+  .icons {
+    position: relative;
+    top: 55vh;
+    margin: auto;
+    width: 60vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    overflow-x: scroll;
+  }
+
+  .icons::-webkit-scrollbar {
+    display: none;
+  }
+  .icons img {
+    margin: 0;
+    width: 50vw;
+    height: 30vh;
+    border: 3px solid transparent;
+    border-radius: 10px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .icons {
+    position: relative;
+    top: 70vh;
+    margin: auto;
+    width: 50vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+}
