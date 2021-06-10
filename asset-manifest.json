@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/coder-break/static/css/main.bd125582.chunk.css",
+    "main.js": "/coder-break/static/js/main.adf1e73c.chunk.js",
+    "main.js.map": "/coder-break/static/js/main.adf1e73c.chunk.js.map",
+    "runtime-main.js": "/coder-break/static/js/runtime-main.6e76e23a.js",
+    "runtime-main.js.map": "/coder-break/static/js/runtime-main.6e76e23a.js.map",
+    "static/js/2.fe368a97.chunk.js": "/coder-break/static/js/2.fe368a97.chunk.js",
+    "static/js/2.fe368a97.chunk.js.map": "/coder-break/static/js/2.fe368a97.chunk.js.map",
+    "index.html": "/coder-break/index.html",
+    "static/css/main.bd125582.chunk.css.map": "/coder-break/static/css/main.bd125582.chunk.css.map",
+    "static/js/2.fe368a97.chunk.js.LICENSE.txt": "/coder-break/static/js/2.fe368a97.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/coder-break/static/media/markus-spiske-ij3xk7LaiCc-unsplash.566eb618.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e76e23a.js",
+    "static/js/2.fe368a97.chunk.js",
+    "static/css/main.bd125582.chunk.css",
+    "static/js/main.adf1e73c.chunk.js"
+  ]
+}
